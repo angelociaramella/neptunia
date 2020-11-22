@@ -14,18 +14,26 @@ organizations:
   url: "https://www.uniparthenope.it/ugov/person/2497"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Associte professor of Computer Science at the Department of Science and Technology of the University of Naples "Parthenope". Head of the research  laboratory Computational Intelligence & Smart System Lab.
+bio: Associte professor of Computer Science, Director of iOS Apple Foundation Program Parthenope, Head of the research  laboratory Computational Intelligence & Smart System Lab at the Department of Science and Technology of the University of Naples "Parthenope".   
 
 interests:
--
--
--
+- Computational Intelligence 
+- Machine Learning
+- Bioinformatics
+- Signal Processing
+- Computer Vision 
 
 #education:
 #  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
+#  - course: Machine Learning
+#    institution: Parthenope University
+#  - course: Intelligent Signal Processing 
+#    institution: Parthenope University
+#  - course: Computer Programming I 
+#    institution: Parthenope University
+#  - course: Computer Programming II
+#    institution: Parthenope University
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
